@@ -1,0 +1,19 @@
+{
+  "name": "build-a-personal-profile-app",
+  "version": "1.0.0",
+  "description": "personal app with a few endpoints",
+  "keywords": [
+    "personal",
+    "api"
+  ],
+  "license": "ISC",
+  "author": "SA",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
